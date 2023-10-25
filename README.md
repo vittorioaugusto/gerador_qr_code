@@ -1,4 +1,4 @@
-# Gerador QR Code (3 Modos)
+# Gerador QR Code em Python (3 Modos)
 
 
 
